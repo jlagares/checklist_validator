@@ -4,7 +4,7 @@ Welcome to the documentation site. This portal contains essential checklists and
 
 ---
 
-## ✅ Available Checklists
+## Available Checklists
 
 ### 📂 Office Compliance
 
@@ -15,7 +15,7 @@ Ensure your physical and digital office setup meets standards for:
 - Data security and privacy  
 - Employee onboarding requirements  
 
-➡️ [View the Office Compliance Checklist](office-checklist.md)
+➡️ [View the Office Compliance Checklist](office/office-checklist.md)
 
 ---
 
