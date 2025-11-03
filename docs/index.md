@@ -1,27 +1,19 @@
-# 🧾 Checklist Compliance Hub
+# jlagares/checklist_validator - Checklists
 
-Welcome to the documentation site. This portal contains essential checklists and documentation to ensure smooth operations, compliance, and quality assurance across our internal and client-facing processes.
+*Last updated: 2025-11-03 15:43:19*
 
----
-
-## Available Checklists
-
-### 📂 Office Compliance
-
-Ensure your physical and digital office setup meets standards for:
-
-- Safety & accessibility  
-- IT infrastructure readiness  
-- Data security and privacy  
-- Employee onboarding requirements  
-
-➡️[View the Office Compliance Checklist](https://github.com/jlagares/checklist_validator/blob/test/docs/office/office_checklist.md)
-
+Welcome to the checklist repository. Browse folders and files below.
 
 ---
 
-## 📄 About This Site
+## 📁 Folders
 
-This site is maintained by the Daimatics team to serve as a living reference for compliance-related tasks and validation documents.
+- [office](office/index.html)
 
-For questions or updates, reach out to me
+## 📄 Checklists (Root)
+
+- [_config.yml](_config.yml)
+
+---
+
+*This index is automatically maintained by Kyros Checklist Validator*
