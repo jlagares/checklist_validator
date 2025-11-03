@@ -15,7 +15,8 @@ Ensure your physical and digital office setup meets standards for:
 - Data security and privacy  
 - Employee onboarding requirements  
 
-➡️ [View the Office Compliance Checklist](office/office-checklist.md)
+➡️[View the Office Compliance Checklist](https://github.com/jlagares/checklist_validator/blob/test/docs/office/office_checklist.md)
+
 
 ---
 
