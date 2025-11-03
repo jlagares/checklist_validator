@@ -1,6 +1,6 @@
 # jlagares/checklist_validator - Checklists
 
-*Last updated: 2025-11-03 15:43:19*
+*Last updated: 2025-11-03 16:07:49*
 
 Welcome to the checklist repository. Browse folders and files below.
 
@@ -9,6 +9,7 @@ Welcome to the checklist repository. Browse folders and files below.
 ## 📁 Folders
 
 - [office](office/index.html)
+- [security](security/index.html)
 
 ## 📄 Checklists (Root)
 
