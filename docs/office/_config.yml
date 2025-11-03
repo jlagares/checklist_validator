@@ -1,15 +1,1 @@
-title: Checklist Manager Docs
-description: Checklist-driven product validation and compliance documentation
-theme: jekyll-theme-minimal
 
-# Optional customizations:
-logo: /assets/img/daimatics-logo.png   # path to your logo (optional)
-show_downloads: false
-#google_analytics: UA-XXXXXXXXX-X       # replace with your tracking ID if needed
-
-# Social links (optional)
-# social_links:
-#   - name: GitHub
-#     url: https://github.com/daimatics
-#   - name: LinkedIn
-#     url: https://www.linkedin.com/company/daimatics
