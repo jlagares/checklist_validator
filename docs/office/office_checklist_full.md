@@ -1,5 +1,5 @@
 ## Section 1: Reception Lobby Area
-- [ ] Are the trashes bin emptied and bags refilled?
+- [ ] Is the trash bin emptied and bags refilled?
 - [ ] Have all cups, plates, and utensils been removed?
 - [ ] Is the front entrance glass cleaned with no smudges or fingerprints?
 - [ ] Have ceiling cobwebs been removed?
