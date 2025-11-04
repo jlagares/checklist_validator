@@ -1,6 +1,6 @@
 # office
 
-*Last updated: 2025-11-03 16:33:35*
+*Last updated: 2025-11-04 08:27:27*
 
 [← Back to Home](../index.html)
 
@@ -10,7 +10,8 @@
 
 - [office_checklist](office_checklist.md)
 - [office_checklist_full](office_checklist_full.md)
+- [office_mini](office_mini.md)
 
 ---
 
-*This index is automatically maintained by Kyros Checklist Validator*
+*This index is automatically maintained by DocuCheck AuditIQ*
