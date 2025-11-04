@@ -1,6 +1,12 @@
+<link rel="stylesheet" href="/jlagares/checklist_validator/assets/css/style.css">
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="https://raw.githubusercontent.com/jlagares/checklist_validator/main/docs/assets/img/DocuCheck.png" alt="DocuCheck Logo" style="max-width: 200px;">
+</div>
+
 # jlagares/checklist_validator - Checklists
 
-*Last updated: 2025-11-03 16:07:32*
+*Last updated: 2025-11-04 12:14:47*
 
 Welcome to the checklist repository. Browse folders and files below.
 
@@ -10,10 +16,6 @@ Welcome to the checklist repository. Browse folders and files below.
 
 - [office](office/index.html)
 
-## 📄 Checklists (Root)
-
-- [_config.yml](_config.yml)
-
 ---
 
-*This index is automatically maintained by Kyros Checklist Validator*
+*This index is automatically maintained by DocuCheck AuditIQ*
