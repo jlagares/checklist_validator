@@ -2,7 +2,7 @@
 
 # office
 
-*Last updated: 2025-11-04 13:00:20*
+*Last updated: 2025-11-04 14:09:39*
 
 [← Back to Home](../index.html)
 
@@ -10,6 +10,7 @@
 
 ## 📄 Checklists
 
+- [cleaning](cleaning.md)
 - [office_checklist](office_checklist.md)
 - [office_checklist_full](office_checklist_full.md)
 - [office_mini](office_mini.md)
