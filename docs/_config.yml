@@ -3,7 +3,7 @@ description: Checklist-driven product validation and compliance documentation
 theme: just-the-docs
 
 # Optional customizations:
-logo: /assets/img/daimatics-logo.png   # path to your logo (optional)
+logo: /assets/img/DocuCheck.png  # path to your logo (optional)
 show_downloads: false
 #google_analytics: UA-XXXXXXXXX-X       # replace with your tracking ID if needed
 
