@@ -1,6 +1,8 @@
+<link rel="stylesheet" href="/jlagares/checklist_validator/assets/css/style.css">
+
 # security
 
-*Last updated: 2025-11-04 08:27:32*
+*Last updated: 2025-11-04 08:44:19*
 
 [← Back to Home](../index.html)
 
