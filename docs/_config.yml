@@ -1,6 +1,6 @@
 title: Checklist Manager Docs
 description: Checklist-driven product validation and compliance documentation
-theme: jekyll-theme-minimal
+theme: just-the-docs
 
 # Optional customizations:
 logo: /assets/img/daimatics-logo.png   # path to your logo (optional)
