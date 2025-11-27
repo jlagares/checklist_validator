@@ -2,7 +2,7 @@
 
 # office
 
-*Last updated: 2025-11-11 08:20:19*
+*Last updated: 2025-11-27 09:39:23*
 
 [← Back to Home](../index.html)
 
@@ -11,6 +11,7 @@
 ## 📄 Checklists
 
 - [cleaning](cleaning.md)
+- [german_new](german_new.md)
 - [image_checklist](image_checklist.md)
 - [office_checklist](office_checklist.md)
 - [office_checklist_full](office_checklist_full.md)
